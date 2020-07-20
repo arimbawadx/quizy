@@ -1,0 +1,104 @@
+@font-face
+{
+	font-family: "AAA";
+	src:url("font/Aaargh.ttf");
+}
+
+body
+{
+	font-family: "arial";
+	background-color: lightblue;
+}
+
+.body_data_user
+{
+	margin: 100px auto;
+	width: 700px;
+	border-radius: 10px;
+	padding: 20px;
+	padding-bottom: 50px;
+	text-align: center;
+	background-color: white;
+	box-shadow: 0px 1px 50px black;
+
+}
+
+.judul
+{
+	font-family: "AAA";
+	font-style: bold;
+	border-radius: 10px;
+	margin-bottom: 20px; 
+	padding: 1px;
+	background-color: lightblue;
+	color: black;
+	text-align: center;
+	box-shadow: 0px 1px 10px black;
+}
+
+.link
+{
+	border-radius: 2px;
+	padding: 5px;
+	background-color: #9f0303;
+	text-decoration: none;
+	color: white;
+}
+
+table
+{
+	margin: auto;
+	margin-top: 10px;
+	width: 100%;
+	border-radius: 10px;
+}
+
+th
+{
+	background-color: lightblue;
+	color: black;
+	height: 50px;
+}
+
+
+
+header
+{
+	border-radius: 30px;
+	margin: 10px auto;
+	padding: 30px;
+	width: 30%;
+	line-height: 0px;
+	background-color: white;
+	box-shadow: 0px 1px 10px black;
+}
+
+table.header
+{
+	margin: 0px;
+	width: 100%;
+}
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+a.header
+{
+	font-family: "arial";
+	font-size: 25px;
+	background-color: transparent;
+	text-decoration: none;
+	color: black;
+}
+
+.aktif
+{
+	font-weight: bold;
+	font-family: "arial";
+	font-size: 25px;
+	background-color: transparent;
+	color: black;
+	text-decoration: none;
+}

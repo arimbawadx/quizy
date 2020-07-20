@@ -1,0 +1,80 @@
+@font-face
+{
+	font-family: "AAA";
+	src:url("font/Aaargh.ttf");
+}
+
+body
+{
+	font-family: "AAA";
+	background-color: lightblue;
+}
+
+.body_login
+{
+	margin: 100px auto;
+	width: 500px;
+	border-radius: 10px;
+	padding: 20px;
+	text-align: center;
+	box-shadow: 0px 1px 50px black;
+	background-color: white;
+
+}
+
+.judul
+{
+	border-radius: 10px;
+	margin-bottom: 20px; 
+	padding: 1px;
+	background-color: lightblue;
+	color: black;
+	text-align: center;
+	box-shadow: 0px 1px 10px black;
+}
+
+input[type=text],
+input[type=password]
+{
+	margin: 5px auto;
+	width: 50%;
+	padding: 5px;
+	padding-left: 20px;
+	height: 30px;
+	box-shadow: 0px 2px 5px lightblue;
+	border:none;
+	border-radius: 3px;
+}
+
+select 
+{
+	margin: 5px;
+	width: 50%;
+	padding: 5px;
+	border: 2px solid green;
+	border-radius: 5px;
+}
+
+.button
+{
+	border:none;
+	box-shadow: 0px 1px 2px;
+	margin: 20px auto;
+	margin-bottom: 5px;
+	border-radius: 2px;
+	padding: 10px;
+	width: 30%;
+	background-color:  lightblue;
+	cursor: pointer;
+}
+
+.link
+{
+
+	border-radius: 2px;
+	padding: 2px;
+	background-color: lightblue;
+	text-decoration: none;
+	color: black;
+	box-shadow: 0px 1px 2px;
+}
