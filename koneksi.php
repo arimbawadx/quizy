@@ -1,5 +1,5 @@
 <?php 
 
-$conn=mysqli_connect('localhost','root','','portfolio');
+$conn=mysqli_connect('localhost','root','','quizy');
 
- ?>
+?>
